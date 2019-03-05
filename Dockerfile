@@ -17,10 +17,11 @@ LABEL description="Tensorflow + some other libraries"
 # Update the image to the latest packages
 #RUN apt-get update && apt-get upgrade -y
 RUN apt-get update
- 
+
 #
-RUN apt-get install -y wget vim htop fish
+RUN apt-get install -y wget vim htop fish datamash
  
+RUN pip3 --no-cache-dir install docopt joblib natsort 
 #
 # Expose port 80
 #EXPOSE 80
