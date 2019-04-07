@@ -21,7 +21,7 @@ RUN apt-get update
 #
 RUN apt-get install -y wget vim htop fish datamash
  
-RUN pip3 --no-cache-dir install docopt joblib natsort 
+RUN pip3 --no-cache-dir install docopt joblib natsort scipy
 #
 # Expose port 80
 #EXPOSE 80
