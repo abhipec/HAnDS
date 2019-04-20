@@ -1,0 +1,4 @@
+[submodule "src/wikiextractor"]
+	path = src/wikiextractor
+	url = https://github.com/abhipec/wikiextractor
+	branch = master
