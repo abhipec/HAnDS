@@ -1,0 +1,14 @@
+# This is mapping of figer gold labels to labels used in our work.
+# This is only partial mapping but covers all labels in figer gold dataset (testing data).
+# Time label is not mapped
+/education/department /organization/educational_department
+/government_agency /organization/government_agency
+/internet/website /website
+/livingthing/animal /animal
+/medicine/medical_treatment /medical_treatment
+/medicine/symptom /symptom
+/military /organization/military
+/news_agency /organization/news_agency
+/people/ethnicity /ethnicity
+/transportation/road /location/road
+/written_work /art/written_work
