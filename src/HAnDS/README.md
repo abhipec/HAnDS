@@ -5,7 +5,7 @@
 The framework requires three inputs:
 1. [Linked text corpus (Wikipedia)](#wikipedia)
 2. [Knowledge Base (Freebase)](#freebase)
-3. [Type Hierarchy](#type_hierarchy)
+3. [Type Hierarchy](#type-hierarchy)
 
 
 ## Wikipedia
