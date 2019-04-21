@@ -1,7 +1,7 @@
 ## Analysis for the case study: Entity Detection in the Fine Entity Typing Setting
 
 
-1. The coverage analysis of the FIGER hierarchy is completely manual, and the details are available in file: pie_chart_conll_subsumption.py
+1. The coverage analysis of the FIGER hierarchy is completely manual, and some details are written inside typenet_parsing.py file
 
 2. The coverage analysis of the TypeNET hierarchy is based on the freebase mapping between Freebase to FIGER hierarchy and graph traversal, the results for this analysis can be obtained using the following code:
 ```
