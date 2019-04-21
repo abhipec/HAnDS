@@ -2,3 +2,7 @@
 	path = src/wikiextractor
 	url = https://github.com/abhipec/wikiextractor
 	branch = master
+[submodule "utils/tagger"]
+	path = utils/tagger
+	url = https://github.com/glample/tagger
+	branch = master
