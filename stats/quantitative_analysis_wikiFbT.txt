@@ -1,0 +1,12 @@
+Entity mention analysis
+Total entity mentions HAnDS: 45696943
+Total entity mentions NDS: 24594804
+|H - N| 22585152
+|H intersection N| 23111791
+|N - H| 1483013
+Entity analysis
+Total entity HAnDS: 2557122
+Total entity NDS: 1630078
+|H - N| 959694
+|H intersection N| 1597428
+|N - H| 32650
