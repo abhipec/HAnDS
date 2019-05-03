@@ -10,7 +10,7 @@ The framework requires three inputs:
 
 ## Wikipedia
 
-We used the September 2016 dump of Wikipedia (enwiki-20160920-pages-articles-multistream.xml.bz2) for the experiments reported in the paper. The details of the preprocessing steps are mentioned below, which can be used to pre-process any other Wikipedia dump. The POS tagged preprocessed Wikipedia dump (20160920) is available at: (ADD URL)
+We used the September 2016 dump of Wikipedia (enwiki-20160920-pages-articles-multistream.xml.bz2) for the experiments reported in the paper. The details of the preprocessing steps are mentioned below, which can be used to pre-process any other Wikipedia dump. The POS tagged preprocessed Wikipedia dump (20160920) is available at: [https://github.com/abhipec/HAnDS/tree/master/datasets](https://github.com/abhipec/HAnDS/tree/master/datasets).
 
 
 ### Preprocessing steps
