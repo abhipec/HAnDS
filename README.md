@@ -10,3 +10,18 @@ There are three sections of the repository:
 
 Please refer to the individual sections for more details.
 
+Please use the following BibTex code for citing this work.
+
+```
+@InProceedings{abhisheketalAKBC,
+  title={Fine-grained Entity Recognition with Reduced False Negatives and Large Type Coverage},
+  author={Abhishek, Abhishek and Taneja, Sanya Bathla and Malik, Garima and Anand, Ashish and Awekar, Amit},
+  booktitle = {Proceedings of the 1st Conference of the Automated Knowledge Base Construction},
+  month     = {May},
+  year      = {2019},
+  address   = {Amherst, USA},
+  publisher = {Automated Knowledge Base Construction},
+  url       = {https://openreview.net/forum?id=HylHE-9p6m}
+}
+
+```
