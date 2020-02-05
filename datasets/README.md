@@ -19,3 +19,4 @@ The total size is around 50 GB. It is recommended to download only the portion o
 | HAnDS_typenet_types_stage_one_state_two_sentences_stage_three_pp.tar.gz | The corpus generated after the stage I+II+III of the HAnDS framework using the TypeNET hierarchy, which is referred to as **Wiki-FbT** in the paper. |
 | sampled_datasets.tar.gz | Different samples of training datasets used in the paper. | 
 | **1k-WFB-g.tar.gz** | Manually annotated Fine-grained Entity Recognition corpus with 117 entity types annotated. | 
+| wikipedia_id_to_title.txt.gz | A mapping of Wikipedia curid to Wikipedia page title |
